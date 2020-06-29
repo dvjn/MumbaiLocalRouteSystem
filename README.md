@@ -6,12 +6,11 @@ destination station from the user and finds the shortest commute route.
 ## Implementation
 
 - Language: **Java**
-- Algorithm: **Dijkstra's Route Finding Algorithm**
 - GUI Toolkit: **Swing**
 
-## Java Concepts
+## Concepts Used
 
-### Algorithm
+### Data Structures
 
 - Vector
 - LinkedList
@@ -19,6 +18,10 @@ destination station from the user and finds the shortest commute route.
 - HashSet
 - HashMap
 - Iterator
+
+### Algorithm
+
+- Dijkstra's Route Finding Algorithm
 
 ### GUI
 
